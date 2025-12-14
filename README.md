@@ -1,8 +1,8 @@
-# 📡 SiteSentry: Automated Uptime Monitor (Day 6)
+# 📡 SiteSentry: Automated Uptime Monitor
 
 A Python automation script that periodically checks the health of specified websites. If a website goes down (status code != 200), it automatically sends an **Email Alert** to the administrator.
 
-**Part of the "15 Days, 15 Projects" Challenge.**
+
 
 ## 🚀 Features
 
